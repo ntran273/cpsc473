@@ -1,3 +1,1 @@
-# frontend473
-# frontend473
-# frontend473
+# Welcome to CPSC 473
