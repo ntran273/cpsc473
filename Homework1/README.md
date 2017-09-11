@@ -12,16 +12,4 @@ b.	One of Flexbox Froggy or Flexbox Defense
 c.	Grid Garden
 5.	Take screenshots of the completed final level of each game and place them in the screenshots/ directory.
 6.	Push the contents of your ottergram/ directory into a new public GitHub repository.
-Grading
-Place a checkmark next to each of the following items when you have verified them:
-❑	When you visit http://localhost:3000 with browser-sync running, do you see the Ottergram page?
-❑	Does the appearance of the page match Figure 4.27?
-❑	Have you run the atom-beautify plugin on your HTML and CSS code?
-❑	Is there a screenshots/ subdirectory?
-❑	Have you completed Level 32 of CSS Diner and taken a screenshot of the correct answer?
-❑	Have you completed Level 24 of Flexbox Froggy or Wave 12 of Flexbox Defense and taken a screenshot of the correct answer?
-❑	Have you completed Level 28 of Grid Garden and taken a screenshot of the correct answer?
-❑	Have you created a new GitHub repository for this assignment?  Fill it in here:
 
-https://github.com/ntran273/cpsc473
-❑	Have you checked in the assignment and pushed it to GitHub?
