@@ -59,8 +59,12 @@ function addThumbClickHandler(thumb) {
   thumb.addEventListener('click', function(event) {
     event.preventDefault();
 
+    /*
+      Get Image Url
+      If Image Url = tacoimage Url, then restore used image and set tacocat to random place
+    */
     var imgURL = imageFromThumb(thumb);
-    if(imgURL = tacocaturl){
+    if (imgURL = tacocaturl) {
       randomThumb.setAttribute('data-image-url', usedImg);
       setRandomTacocat();
     }
